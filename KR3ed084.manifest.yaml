@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed084/v1
 canonical_location: https://kanripo.org/bkk/KR3ed084/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 時方歌括
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed084_000.yaml, hash: 'sha256:6b9a411f0fef1a6fea6d035d309544df4802e0adfa7b79f03e6ec6d8498dcdef'}
-  - {seq: 1, filename: KR3ed084_001.yaml, hash: 'sha256:896e65e22399f2d66aa38a59e70ad4005ecbf6813d8b4e324f78ea3b00687b3e'}
-  - {seq: 3, filename: KR3ed084_003.yaml, hash: 'sha256:e08dd140eb968511b526de5b5cf1e2f91334fad49056ac35149f3ea98aee3938'}
+  - {seq: 0, filename: KR3ed084_000.yaml, hash: 'sha256:daa37131c082c34883de54f2631813b7e923a2fd8c33c33345c0aae88413f3ba'}
+  - {seq: 1, filename: KR3ed084_001.yaml, hash: 'sha256:72334751d91ca02cc53639d06eac8804965c8c55413e439edb785308ee28bfcc'}
+  - {seq: 3, filename: KR3ed084_003.yaml, hash: 'sha256:c8954b3d0955fa70e8ec0658293375f4505a298455a6859398d57a2348739f21'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed084_000.markers.yaml, hash: 'sha256:25fce6178acbc6f1a338840f0d90d6e0e83db4705fda428b154a64eedec00768'}
-  - {seq: 1, role: markers, filename: assets/KR3ed084_001.markers.yaml, hash: 'sha256:46364fdc8d3ad975b8510993435dac79e05ff49bb5d9dbb5b919454e378849a8'}
-  - {seq: 3, role: markers, filename: assets/KR3ed084_003.markers.yaml, hash: 'sha256:69363a70427f4a8e54ca82620cacacfdc5c2ea0a165ce81b1c0add8cc2280ae7'}
+  - {seq: 0, role: markers, filename: assets/KR3ed084_000.markers.yaml, hash: 'sha256:c7a90182c2f8bd7a3fc905dd9e8c25e1be09fccf56f8f4008a46f14eca68fd9e'}
+  - {seq: 1, role: markers, filename: assets/KR3ed084_001.markers.yaml, hash: 'sha256:5d83d0ddc7fc239ac460d6cfe61540622e751720dd782fb85d8be06ad21e8f4e'}
+  - {seq: 3, role: markers, filename: assets/KR3ed084_003.markers.yaml, hash: 'sha256:4645c254b2793de0f1231b93f48c04bcef11b6b993f2865c7a4186c9aca037df'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1185,4 +1185,7 @@ table_of_contents:
   label: 雞鳴散
   type: section
   level: 3
-hash: sha256:6d6c29062a6070de9028ef7862af13a359e82b8494c3a2f29c890c7c450772b3
+hash: sha256:13f9f24d464a8cf17afe6e21ca8f4cb50dfd6359a16ecb09072908ceb44a2b48
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
